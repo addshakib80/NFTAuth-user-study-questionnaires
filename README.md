@@ -33,7 +33,7 @@ The system achieved a mean SUS score of 69.4 ± 18.7 (N = 25), within the "good"
 
 ## Related Repositories
 
-- [Protocol formal verification (ProVerif)](#) — secrecy and authenticity analysis of the registration and authentication protocols.
+- [Protocol formal verification (ProVerif)](https://github.com/addshakib80/NFTAuth-Protocol-verification-Proverif-files) — secrecy and authenticity analysis of the registration and authentication protocols.
 
 ## Citation
 
